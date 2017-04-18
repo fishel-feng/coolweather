@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname valve="cool_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.fx.coolweather.db.Province"/>
+        <mapping class="com.fx.coolweather.db.City"/>
+        <mapping class="com.fx.coolweather.db.County"/>
+    </list>
+
+</litepal>
